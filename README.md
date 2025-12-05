@@ -33,7 +33,7 @@ Instalación y Uso
 4.  Compilar y ejecutar la solución desde Visual Studio.
 
 
-Desarrollado por Bruno Ulric 
+Desarrollado por Bruno Ulric - Estudiante de Ingeniería en Sistemas (UAI)
 
 Hair Salon Management System (PeluSystem)
 
@@ -70,4 +70,4 @@ Installation & Usage
 4.  Build and run the solution via Visual Studio.
 
 ---
-Developed by Bruno Ulric
+Developed by Bruno Ulric - Systems Engineering Student (UAI)
